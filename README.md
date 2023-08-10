@@ -8,7 +8,7 @@
 <p>Sazumi-bot is a multi-device WhatsApp bot that is derived from the Ayaka V2 package, more precisely, sazumi-bot is the upcoming version that will be enhanced and will become the stable version.</p>
 
 ##
-<h>config.js</h2>
+<h>**config.js**</h2>
 
 ```javascript
 global.owner = ['6285236226786']; // Your number is here
@@ -102,3 +102,85 @@ fs.watchFile(file, () => {
   require(file);
 });
 ```
+##
+
+<h4>How much does sazumi-bot script cost?</h4>
+
+- 🏷️ IDR **Rp 0** / **$ 0** Not yet public for everyone</b>
+
+##
+
+<h4>Bot Code Type</h4>
+
+- <b>Plugins</b>
+- ~Case~
+
+##
+
+**Benefits**
+- [x] Free updates according to plan
+- [x] Free [LoL Human REST APIs](https://api.lolhuman.xyz) [ **5month** ]
+- [x] Bonus [ITSROSE - APIs](https://api.itsrose.life)
+      
+##
+
+<h4>Where can I buy sazumi-bot script officially?</h4>
+
+- [Whatsapp](https://wa.me/+6285236226786)
+- [Telegram](https://t.me/sazumiviki)
+
+##
+
+<h4>Read this before purchasing the script</h4>
+
+- Should I understand programming?
+   - Yes, you should be able to master basic JavaScript & Node.js.
+
+- Can I get a refund once I've received the script?
+   - No, I do not accept refund requests.
+
+- Can I request a feature?
+   - Yes, you are free to request any feature, but I may not necessarily develop it, though I will do my best.
+
+- Is it possible to negotiate the price of the script?
+   - No, I do not accept price negotiations.
+
+- Can I get the script for free?
+   - No, I do not provide the script for free
+
+##
+
+<h4>Minimum specifications required</h4>
+
+- [x] **Node Version:** 18.16.1
+- [x] **Npm Version:** 9.8.0
+- [x] **Cpu:** 300%
+- [x] **Memory:** 3GB
+- [x] **Disk:** 5GB
+
+##
+
+<h4>Recommendations specifications required</h4>
+
+- [x] **Node Version:** 18.16.1
+- [x] **Npm Version:** 9.8.0
+- [x] **Cpu:** 400%
+- [x] **Memory:** 8GB
+- [x] **Disk:** 10GB
+
+##
+
+Demo : [sazumi-bot v1.0.0](https://wa.me/62857961868359?text=.menu)
+<br>
+Creator : [Sazumi Viki](https://wa.me/6285236226786)
+<br>
+Official Group : [PEKO PEKO](https://chat.whatsapp.com/LqvyPGgU82ZHogxjpU60BE)
+
+##
+
+<h4>Latest changelog update</h4>
+
+| ChangeLog | Published On |
+| ----- | ------------ |
+|  Starting **sazumi-bot version 1.0.0** and onwards| Thu Aug 10 2023 |
+
