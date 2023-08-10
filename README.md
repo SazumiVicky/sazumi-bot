@@ -5,7 +5,7 @@
 ##
 
 <h4>What is sazumi-bot ?</h4>
-<p>"Sazumi-bot is a multi-device WhatsApp bot that is derived from the Ayaka V2 package, more precisely, sazumi-bot is the upcoming version that will be enhanced and will become the stable version."</p>
+<p>Sazumi-bot is a multi-device WhatsApp bot that is derived from the Ayaka V2 package, more precisely, sazumi-bot is the upcoming version that will be enhanced and will become the stable version.</p>
 
 ##
 <h>config.js</h2>
