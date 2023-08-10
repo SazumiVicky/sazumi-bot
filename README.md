@@ -1,4 +1,4 @@
-<h2>SAZUMI-BOT (BETA VERSION)</h2>
+<h3>SAZUMI-BOT (BETA VERSION)</h3>
 
 ![sazumi-bot](https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi-bot@main/storage/20230810_130446.jpg)
 
