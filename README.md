@@ -182,6 +182,7 @@ Official Group : [PEKO PEKO](https://chat.whatsapp.com/LqvyPGgU82ZHogxjpU60BE)
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+|  New Feature **Deepfake**| Sun Aug 13 2023 |
 |  New Sticker Feature **.snobg (Sticker without background)** & **.scircle (Circle shape sticker)**| Sun Aug 13 2023 |
 |  Remove **Bard Ai**| Sat Aug 12 2023 |
 |  Fix **Emojimix**| Fri Aug 11 2023 |
