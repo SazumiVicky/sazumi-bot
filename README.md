@@ -182,6 +182,7 @@ Official Group : [PEKO PEKO](https://chat.whatsapp.com/LqvyPGgU82ZHogxjpU60BE)
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+|  Added features **Tebak Bom**| Fri Aug 18 2023 |
 |  Fixed **Backup** Feature on Bot| Thu Aug 17 2023 |
 |  Updating the data on the **lyric feature**| Tue Aug 15 2023 |
 |  Added **ram** usage **limit**| Tue Aug 15 2023 |
