@@ -154,6 +154,15 @@ fs.watchFile(file, () => {
 - When I have used all of my IP addresses, will there be a charge to obtain more IP slots?
    - Yes, you will incur an additional fee to obtain more IP slots. The cost for 1 IP slot is IDR 15 / $1.
 
+- Will I get the werewolf and blackjack features as well?
+   - I'm sorry, I haven't published the werewolf and blackjack features yet.
+ 
+- Which features do you encrypt?
+   - I encrypted the index.js, print.js, and viki-regmail.js files (97% Not Encrypted).
+
+- Why did you encrypt the code?
+   - I encrypted the code to prevent it from being sold, and the encrypted code doesn't contain any watermark within the text message.
+
 ##
 
 <h4>Minimum specifications required</h4>
