@@ -148,6 +148,12 @@ fs.watchFile(file, () => {
 - Can I get the script for free?
    - No, I do not provide the script for free
 
+- How many times can I change my IP address?
+   - You can change your IP address up to 5 times.
+
+- When I have used all of my IP addresses, will there be a charge to obtain more IP slots?
+   - Yes, you will incur an additional fee to obtain more IP slots. The cost for 1 IP slot is IDR 15 / $1.
+
 ##
 
 <h4>Minimum specifications required</h4>
