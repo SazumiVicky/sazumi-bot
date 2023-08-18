@@ -165,6 +165,15 @@ fs.watchFile(file, () => {
 
 ##
 
+<h4>The script is supported to run on:</h4>
+
+- [x] Rdp
+- [x] Vps
+- [x] Railway
+- [x] Panel Pterodactyl  
+
+##
+
 <h4>Minimum specifications required</h4>
 
 - [x] **Node Version:** 18.16.1
