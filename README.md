@@ -152,16 +152,19 @@ fs.watchFile(file, () => {
    - You can change your IP address up to 5 times.
 
 - When I have used all of my IP addresses, will there be a charge to obtain more IP slots?
-   - Yes, you will incur an additional fee to obtain more IP slots. The cost for 1 IP slot is IDR 15 / $1.
+   - Yes, you will incur an additional fee to obtain more IP slots. The cost for 1 IP slot is **Rp 15.000,00** / **$1**.
 
 - Will I get the werewolf and blackjack features as well?
    - I'm sorry, I haven't published the werewolf and blackjack features yet.
  
 - Which features do you encrypt?
-   - I encrypted the index.js, print.js, and viki-regmail.js files (97% Not Encrypted).
+   - I encrypted the **index.js**, **print.js**, and **viki-regmail.js** files **(97% Not Encrypted)**.
 
 - Why did you encrypt the code?
    - I encrypted the code to prevent it from being sold, and the encrypted code doesn't contain any watermark within the text message.
+
+- Am I allowed to share plugins, code, and bot api keys with others?
+   - No, I strongly prohibit that.
 
 ##
 
