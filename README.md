@@ -209,6 +209,7 @@ Official Group : [PEKO PEKO](https://chat.whatsapp.com/LqvyPGgU82ZHogxjpU60BE)
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+|  Fixed the **pairing code** error when entering the **pairing code**| Fri Aug 18 2023 |
 |  Added features **Tebak Bom**| Fri Aug 18 2023 |
 |  Fixed **Backup** Feature on Bot| Thu Aug 17 2023 |
 |  Updating the data on the **lyric feature**| Tue Aug 15 2023 |
