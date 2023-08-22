@@ -209,6 +209,7 @@ Official Group : [PEKO PEKO](https://chat.whatsapp.com/LqvyPGgU82ZHogxjpU60BE)
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+|  New feature, **create subdomains** and **delete subdomains** ( cloudflare )| Tue Aug 22 2023 |
 |  Fixed **simi simi** features| Tue Aug 22 2023 |
 |  Fix **Antiporn**| Mon Aug 21 2023 |
 |  Fixed the **pairing code** error when entering the **pairing code**| Fri Aug 18 2023 |
