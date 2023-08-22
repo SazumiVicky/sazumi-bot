@@ -138,6 +138,9 @@ fs.watchFile(file, () => {
 
 - Can I get a refund once I've received the script?
    - No, I do not accept refund requests.
+ 
+- Are there any plugins that are encrypted?
+   - Adding encryption to certain parts of the code in plugins, in order to prevent unauthorized transactions.
 
 - Can I request a feature?
    - Yes, you are free to request any feature, but I may not necessarily develop it, though I will do my best.
