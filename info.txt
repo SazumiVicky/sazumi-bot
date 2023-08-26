@@ -1,1 +1,52 @@
 
+
+Instagram downloader saat ini sedang maintenance, dan berikut fitur sementara nya, di fitur ini masih ada bug ketika mendownload media slide pada Instagram, bot akan mengirim secara berulang ulang, jadi gunakan dengan bijak
+
+```
+/*
+* Nama Pengembang: Sazumi Viki
+* Kontak Whatsapp: wa.me/6285236226786
+* Kontak Telegram: t.me/sazumiviki
+* Akun Github: github.com/SazumiVicky
+* Catatan: tolong laporkan kepada saya ketika anda menemukan ada yang menjual script ini
+*/
+
+const downloader = require('btch-downloader');
+const { fnctions } = require("../lib/fnctions");
+
+let handler = async (m, { conn, text }) => {
+  if (!await fnctions()) return;
+  if (!text || !text.startsWith('https://www.instagram.com/')) {
+    throw '*Example*: .igdl https://www.instagram.com/xxxxxx ';
+  }
+
+  try {
+    conn.chatRead(m.chat);
+    conn.sendMessage(m.chat, {
+      react: {
+        text: '🕒',
+        key: m.key,
+      }
+    });
+    const startTime = new Date();
+    const results = await downloader.igdl(text);
+    const endTime = new Date();
+
+    const fetchTime = endTime - startTime;
+
+    for (const result of results) {
+      const caption = `*🐱 Fetching:* ${fetchTime} ms`;
+      await conn.sendFile(m.chat, result.url, null, caption, m);
+    }
+  } catch (e) {
+    console.error(e);
+    m.reply('🐱 Upps Erorr');
+  }
+};
+
+handler.help = ['igdl'];
+handler.tags = ['downloader'];
+handler.command = /^(ig|igdl)$/i;
+
+module.exports = handler;
+```
