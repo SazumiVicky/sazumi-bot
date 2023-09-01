@@ -204,7 +204,7 @@ Demo : [sazumi-bot v1.0.0](https://wa.me/62857961868359?text=.menu)
 <br>
 Creator : [Sazumi Viki](https://wa.me/6285236226786)
 <br>
-Official Group : [PEKO PEKO](https://chat.whatsapp.com/LqvyPGgU82ZHogxjpU60BE)
+Official Group : [Sazumi Bot - Public](https://chat.whatsapp.com/GSGo630lZlJB9Sr6hKaxSl)
 
 ##
 
