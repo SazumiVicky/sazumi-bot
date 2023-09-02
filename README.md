@@ -170,7 +170,7 @@ fs.watchFile(file, () => {
    - No, I strongly prohibit that.
 
 - Should I keep my old IP?
-   - Yes, to obtain a free IP replacement, once it's no longer available, you will need to pay IDR 15,000.00 / $1 to purchase one IP slot.
+   - Yes, to obtain a free IP replacement, once it's no longer available, you will need to pay **Rp 15.000,00** / **$1** to purchase one IP slot.
 
 ##
 
