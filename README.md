@@ -169,6 +169,9 @@ fs.watchFile(file, () => {
 - Am I allowed to share plugins, code, and bot api keys with others?
    - No, I strongly prohibit that.
 
+- Should I keep my old IP?
+   - Yes, to obtain a free IP replacement, once it's no longer available, you will need to pay IDR 15,000.00 / $1 to purchase one IP slot.
+
 ##
 
 <h4>The script is supported to run on:</h4>
