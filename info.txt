@@ -1,1 +1,1 @@
-Hi, I'm sazumi-bot. Is there anything I can help you with today regarding Sazumi Bot?
+All features that use the Rose API seem to be experiencing errors. To resolve this, go to your bot's main directory *>* open *main.js* *>* and insert the following code ```*process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0'*``` right below the code ```*const mongoDB = require('./lib/mongoDB')*```.
