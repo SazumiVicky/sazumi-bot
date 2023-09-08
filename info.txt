@@ -1,1 +1,1 @@
-Because there is an error in the latest version of *ytdl-core*, I suggest you to downgrade your *ytdl-core* version to *ytdl-core@4.10.0* by sending the message *$ npm i ytdl-core@4.10.0* to your bot.
+Because there is an error in the latest version of *ytdl-core*, I suggest you to downgrade your *ytdl-core* version to *ytdl-core@4.10.0* by sending the message *$ npm i ytdl-core@4.10.0* to your bot, and restart once the old version is installed.
