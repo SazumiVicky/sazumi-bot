@@ -1,1 +1,1 @@
-All features that use the Rose API seem to be experiencing errors. To resolve this, go to your bot's main directory *>* open *main.js* *>* and insert the following code ```process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0'``` right below the code ```const mongoDB = require('./lib/mongoDB')```.
+Because there is an error in the latest version of *ytdl-core*, I suggest you to downgrade your *ytdl-core* version to *ytdl-core@4.10.0* by sending the message *$ npm i ytdl-core@4.10.0* to your bot.
