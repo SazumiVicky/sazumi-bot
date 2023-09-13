@@ -120,7 +120,6 @@ fs.watchFile(file, () => {
 **Benefits**
 - [x] Free updates according to plan
 - [x] Free [LoL Human REST APIs](https://api.lolhuman.xyz) [ **5month** ]
-- [x] Bonus [ITSROSE - APIs](https://api.itsrose.life)
       
 ##
 
@@ -200,6 +199,11 @@ fs.watchFile(file, () => {
 - [x] **Cpu:** 400%
 - [x] **Memory:** 8GB
 - [x] **Disk:** 10GB
+
+##
+README
+
+- [x] Use your own rose APIs [ITSROSE - APIs](https://api.itsrose.life)
 
 ##
 
