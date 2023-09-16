@@ -219,6 +219,7 @@ Official Group : [Sazumi Bot - Public](https://chat.whatsapp.com/GSGo630lZlJB9Sr
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+|  Adding the **blackbox** chat AI feature| Sat Sep 16 2023 |
 |  Fix **TikTok Downloader**| Sat Sep 16 2023 |
 |  Adding the **outpainting** feature.| Wed Sep 06 2023 |
 |  Adding send in document form to, **play, ytmp3, and ytmp4,** using the argument **--doc** behind the text.| Sun Sep 03 2023 |
