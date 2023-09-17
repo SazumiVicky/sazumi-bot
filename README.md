@@ -172,7 +172,7 @@ fs.watchFile(file, () => {
    - Yes, to obtain a free IP replacement, once it's no longer available, you will need to pay **Rp 15.000,00** / **$1** to purchase one IP slot.
  
 - How do I allow my IP?
-   - Set your IP address on the sazumi-bot by sending the command **".setip <your ip>"**
+   - Set your IP address on the sazumi-bot by sending the command **".setip xxxxx"**
 
 ##
 
