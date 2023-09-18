@@ -222,6 +222,7 @@ Official Group : [Sazumi Bot - Public](https://chat.whatsapp.com/GSGo630lZlJB9Sr
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+|  Fix Fix Erorr **IgStalk**| Mon Sep 18 2023 |
 |  Fix **Shortlink**| Mon Sep 18 2023 |
 |  Adding the **blackbox** chat AI feature| Sat Sep 16 2023 |
 |  Fix **TikTok Downloader**| Sat Sep 16 2023 |
