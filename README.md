@@ -222,6 +222,7 @@ Official Group : [Sazumi Bot - Public](https://chat.whatsapp.com/GSGo630lZlJB9Sr
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+|  Create a sticker feature to support **gifs** & **videos**| Thu Sep 21 2023 |
 |  Fixed **tiktok-stalk** to a better version| Thu Sep 21 2023 |
 |  Making **igstory** better| Thu Sep 21 2023 |
 |  Fix Fix Erorr **IgStalk**| Mon Sep 18 2023 |
