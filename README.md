@@ -125,7 +125,7 @@ fs.watchFile(file, () => {
 
 <h4>Where can I buy sazumi-bot script officially?</h4>
 
-- [Whatsapp](https://wa.me/+6285236226786)
+- [Whatsapp](https://wa.me/6285236226786)
 - [Telegram](https://t.me/sazumiviki)
 
 ##
