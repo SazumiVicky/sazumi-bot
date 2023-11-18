@@ -180,6 +180,7 @@ fs.watchFile(file, () => {
 
 - [x] Rdp
 - [x] Vps
+- [x] Kinsta 
 - [x] Railway
 - [x] Panel Pterodactyl  
 
