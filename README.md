@@ -188,8 +188,8 @@ fs.watchFile(file, () => {
 
 <h4>Minimum specifications required</h4>
 
-- [x] **Node Version:** 18.16.1
-- [x] **Npm Version:** 9.8.0
+- [x] **Node Version:** 18.18.2
+- [x] **Npm Version:** 9.8.1
 - [x] **Cpu:** 400%
 - [x] **Memory:** 4GB
 - [x] **Disk:** 10GB
@@ -198,8 +198,8 @@ fs.watchFile(file, () => {
 
 <h4>Recommendations specifications required</h4>
 
-- [x] **Node Version:** 18.16.1
-- [x] **Npm Version:** 9.8.0
+- [x] **Node Version:** 18.18.2
+- [x] **Npm Version:** 9.8.1
 - [x] **Cpu:** 800%
 - [x] **Memory:** 8GB
 - [x] **Disk:** 50GB
