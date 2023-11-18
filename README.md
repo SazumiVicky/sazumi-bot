@@ -210,7 +210,7 @@ README
 
 ##
 
-Demo : [sazumi-bot v1.0.0](https://wa.me/62857961868359?text=.menu)
+Demo : [sazumi-bot v1.0.1](https://wa.me/62857961868359?text=.menu)
 <br>
 Creator : [Sazumi Viki](https://wa.me/6285236226786)
 <br>
