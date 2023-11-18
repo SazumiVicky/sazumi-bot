@@ -222,6 +222,9 @@ Official Group : [Sazumi Bot - Public](https://chat.whatsapp.com/IQfoXH47ED23uCF
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+|  Fixed **ytmp4** and **ytmp3**| Sat Nov 18 2023 |
+|  Adding a fake number feature for several of its countries **( . fakenumber )**| Sun Oct 01 2023 |
+|  Addition of random visa card feature **( .card )**| Sun Oct 01 2023 |
 |  Create a sticker feature to support **gifs** & **videos**| Thu Sep 21 2023 |
 |  Fixed **tiktok-stalk** to a better version| Thu Sep 21 2023 |
 |  Making **igstory** better| Thu Sep 21 2023 |
