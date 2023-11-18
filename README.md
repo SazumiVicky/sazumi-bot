@@ -190,9 +190,9 @@ fs.watchFile(file, () => {
 
 - [x] **Node Version:** 18.16.1
 - [x] **Npm Version:** 9.8.0
-- [x] **Cpu:** 300%
-- [x] **Memory:** 3GB
-- [x] **Disk:** 5GB
+- [x] **Cpu:** 400%
+- [x] **Memory:** 4GB
+- [x] **Disk:** 10GB
 
 ##
 
@@ -200,9 +200,9 @@ fs.watchFile(file, () => {
 
 - [x] **Node Version:** 18.16.1
 - [x] **Npm Version:** 9.8.0
-- [x] **Cpu:** 400%
+- [x] **Cpu:** 800%
 - [x] **Memory:** 8GB
-- [x] **Disk:** 10GB
+- [x] **Disk:** 50GB
 
 ##
 README
