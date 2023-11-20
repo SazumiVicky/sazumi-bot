@@ -223,6 +223,7 @@ Official Group : [Sazumi Bot - Public](https://chat.whatsapp.com/H35sD41KBF53oJ1
 
 | ChangeLog | Published On |
 | ----- | ------------ |
+|  Added new **image format** features| Mon Nov 20 2023 |
 |  Fixed **ytmp4** and **ytmp3**| Sat Nov 18 2023 |
 |  Adding a fake number feature for several of its countries **( . fakenumber )**| Sun Oct 01 2023 |
 |  Addition of random visa card feature **( .card )**| Sun Oct 01 2023 |
