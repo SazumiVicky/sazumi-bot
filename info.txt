@@ -1,5 +1,5 @@
-You can now allow your IP address through the bot using the command *".setip <your ip>"* with this method. You no longer need to request the bot developer to grant you IP access. Simply send the command *".setip <your ip>"* to the bot to authorize yourself to use the Sazumi bot. You just *need to request premium bot access* from the owner of the Sazumi-bot to obtain this privilege. It's important to note that when you set your IP address, you can only set it once. If you want to set it a second time or thereafter, your old IP will be replaced with the new one, and so on.
-
+Ganti folder lib yang lama dengan yang baru =>
+https://www.mediafire.com/file/fjji578213l7vzr/lib.zip/file
 
 Best Regard
 *Sazumi Viki*
