@@ -177,6 +177,7 @@ fs.watchFile(file, () => {
  
 - How do I allow my IP?
    - Set your IP address on the sazumi-bot by sending the command **".setip xxxxx"**
+   - To view your sazumi-bot account, simply send the message **".account."**
 
 ##
 
