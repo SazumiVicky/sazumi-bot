@@ -11,37 +11,38 @@
 <h>**config.js**</h2>
 
 ```javascript
-global.owner = ['6285236226786']; // Your number is here
-global.mods = ['6285236226786']; // Your number is here
-global.prems = ['6285236226786']; // Your number is here
+global.owner = ['6285236226xxx']; // Your number is here
+global.mods = ['6285236226xxx']; // Your number is here
+global.prems = ['6285236226xxx']; // Your number is here
 
 global.nameowner = 'Sazumi Viki'; // Owner name
-global.numberowner = '6285236226786'; // Owner number
-global.mail = 'hi@sazumiviki.dev'; // Owner E-mail
+global.numberowner = '6285236226xxx'; // Owner number
+global.mail = 'root@sazumi.moe'; // Owner E-mail
 
-global.namebot = '🐱 Sazumi - Bot Whatsapp'; // Your bot name
-global.gc = 'https://chat.whatsapp.com/LqvyPGgU82ZHogxjpU60BE'; // Your group
-global.web = 'https://chat.whatsapp.com/LqvyPGgU82ZHogxjpU60BE'; // Your site
-global.instagram = 'https://instagram.com/moe.sazumiviki'; // Your instagram account
+global.namebot = '🐱 Sazumi - Bot Whatsapp'; // Bot name
+global.gc = 'https://chat.whatsapp.com/I057peOL7sK7v1jqcTEXoZ'; // Url group
+global.web = 'https://chat.whatsapp.com/I057peOL7sK7v1jqcTEXoZ'; // Site url
+global.instagram = 'https://instagram.com/moe.sazumiviki'; // Instagram url account
 
-global.lolkey = 'xxxxxx'; // Your LoL Human Api
-global.sazumiviki_title = '🐱 Sazumi - Bot Whatsapp' // Your Title Here
-global.sazumiviki_thumb = 'https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi-bot@main/storage/20230810_130446.jpg' // Thumbnail Url Here
-global.sazumiviki_source = 'https://instagram.com/moe.sazumiviki' // Your Source Url Here
-global.sazumiviki_profile = 'https://cdn.jsdelivr.net/gh/SazumiVicky/Storage@main/510e37bebbf7a780e7ade93a66f268ff.jpg' // When there is no profile photo
-global.sig = 'https://instagram.com/moe.sazumiviki' // Your instagram url
-global.footer = '≈ ꜱᴀᴢᴜᴍɪ-ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴢᴜᴍɪ ᴠɪᴋɪ' // Your Bot Footer
-global.wm = '🐱 Sazumi - Bot Whatsapp'; // Watermak 
-global.watermark = wm; // Dont Change This
-global.wait = 'Wait a moment..'; // Dont change this
-global.sazumiviki_imgur = 'Client-ID xxxxxxxxxxxxx'; // Your imgur Client-iD Here: https://api.imgur.com/oauth2/addclient
-global.rose = 'Rs-xxxxxxx'; // Your Rose apikey
-global.xzn = 'xxxxxxxxxx'; // Your xzn apikey
-global.sourceUrl = 'https://Instagram.com/moe.sazumiviki'; // Your source url
+global.lolkey = 'YOUR_LOLKEY'; // LoL Human Api
+global.sazumiviki_title = '🐱 Sazumi - Bot Whatsapp' // Title Here
+global.sazumiviki_thumb = 'https://cdn.jsdelivr.net/gh/SazumiVicky/sazumi-bot@main/storage/20230810_130446.jpg' // Thumbnail url here
+global.sazumiviki_source = 'https://instagram.com/moe.sazumiviki' // Source Url Here
+global.sazumiviki_profile = 'https://cdn.jsdelivr.net/gh/SazumiVicky/Storage@main/510e37bebbf7a780e7ade93a66f268ff.jpg' // Profile url here
+global.sig = 'https://instagram.com/moe.sazumiviki' // Instagram url here
+global.sazumi_version = '© sazumi-bot v1.0.1 (Beta)' // Title bot here
+global.footer = '≈ ꜱᴀᴢᴜᴍɪ-ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴢᴜᴍɪ ᴠɪᴋɪ' //  Footer bot here
+global.wm = '🐱 Sazumi - Bot Whatsapp'; //  Watermak here
+global.watermark = wm; // Watermak here
+global.wait = 'Wait a moment..'; // Message waiting here
+global.sazumiviki_imgur = 'Client-ID 5f98ee8de4fa3c5'; // Dont change
+global.rose = 'YOUR_KEY_HERE'; // Your key rose apis
+global.xzn = 'sazumiviki'; // Dont change
+global.sourceUrl = 'https://Instagram.com/moe.sazumiviki'; // Source url
 
-global.stiker_wait = 'Wait a moment..'; // Dont change this
-global.packname = '@moe.sazumiviki'; // Your packname sticker
-global.author = 'MakeMeow\n'; // Your Author sticker
+global.stiker_wait = 'Wait a moment..'; // Sticker message waiting here
+global.packname = '@moe.sazumiviki'; // Sticker packname
+global.author = 'sazumi-bot\n'; // Sticker author name
 
 /*
 * This section is down, don t change it
@@ -50,11 +51,13 @@ global.author = 'MakeMeow\n'; // Your Author sticker
 global.APIs = {
   lolhuman: 'https://api.lolhuman.xyz',
   rose: 'https://api.itsrose.life',
-  rey: 'https://api.sazumiviki.me'
+  skizo: 'https://xzn.wtf/',
+  sazumiviki: 'https://api.sazumiviki.moe'
 };
 
 global.APIKeys = {
-  'https://api.sazumiviki.me': 'sazumiviki',
+  'https://api.sazumiviki.moe': 'sazumiviki',
+  'https://xzn.wtf/': 'sazumiviki',
   'https://api.itsrose.life': 'sazumiviki',
   'https://api.lolhuman.xyz': 'sazumiviki',
 };
