@@ -107,6 +107,7 @@ fs.watchFile(file, () => {
 <h4>How much does sazumi-bot script cost?</h4>
 
 - 🏷️ IDR **Rp 100.000** / **$ 7,22** Free Update 2x</b>
+- 🏷️ IDR **Rp 60.000** / **$ 3,85** Free Update 1x</b>
 
 ##
 
