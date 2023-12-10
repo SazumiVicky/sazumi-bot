@@ -209,6 +209,7 @@ fs.watchFile(file, () => {
 README
 
 - [x] Use your own rose APIs [ITSROSE - APIs](https://api.itsrose.life)
+- [x] All terms are subject to change at any time, and you must adhere to the new regulations. 
 
 ##
 
