@@ -123,7 +123,7 @@ fs.watchFile(file, () => {
 
 **Benefits**
 - [x] Free updates according to plan
-- [x] Free [LoL Human REST APIs](https://api.lolhuman.xyz) [ **1month** ]
+- [x] Free [LoL Human REST APIs](https://api.lolhuman.xyz) [ **1month** / **2month** ]
       
 ##
 
