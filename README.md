@@ -36,8 +36,7 @@ global.wm = '🐱 Sazumi - Bot Whatsapp'; //  Watermak here
 global.watermark = wm; // Watermak here
 global.wait = 'Wait a moment..'; // Message waiting here
 global.sazumiviki_imgur = 'Client-ID 5f98ee8de4fa3c5'; // Dont change
-global.rose = 'YOUR_KEY_HERE'; // Your key rose apis
-global.xzn = 'sazumiviki'; // Dont change
+global.skizo = 'YOUR_KEY_HERE'; // Your key skizo apis
 global.sourceUrl = 'https://Instagram.com/moe.sazumiviki'; // Source url
 
 global.stiker_wait = 'Wait a moment..'; // Sticker message waiting here
@@ -50,15 +49,13 @@ global.author = 'sazumi-bot\n'; // Sticker author name
 
 global.APIs = {
   lolhuman: 'https://api.lolhuman.xyz',
-  rose: 'https://api.itsrose.life',
-  skizo: 'https://xzn.wtf/',
+  skizo: 'https://skizo.tech/',
   sazumiviki: 'https://api.sazumiviki.moe'
 };
 
 global.APIKeys = {
   'https://api.sazumiviki.moe': 'sazumiviki',
-  'https://xzn.wtf/': 'sazumiviki',
-  'https://api.itsrose.life': 'sazumiviki',
+  'https://skizo.tech': 'sazumiviki',
   'https://api.lolhuman.xyz': 'sazumiviki',
 };
 
