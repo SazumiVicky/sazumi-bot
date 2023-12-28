@@ -209,7 +209,7 @@ fs.watchFile(file, () => {
 ##
 README
 
-- [x] Use your own rose APIs [ITSROSE - APIs](https://api.itsrose.life)
+- [x] Use your own Skizo APIs [Api'S Skizo](https://skizo.tech/)
 - [x] All terms are subject to change at any time, and you must adhere to the new regulations. 
 
 ##
